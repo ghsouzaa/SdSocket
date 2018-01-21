@@ -1,0 +1,11 @@
+C:\Users\26460\Documents\Faculdade\SD\Socket\ClientB\bin\Debug\ClientB.exe.config
+C:\Users\26460\Documents\Faculdade\SD\Socket\ClientB\bin\Debug\ClientB.exe
+C:\Users\26460\Documents\Faculdade\SD\Socket\ClientB\bin\Debug\ClientB.pdb
+C:\Users\26460\Documents\Faculdade\SD\Socket\ClientB\obj\Debug\ClientB.exe
+C:\Users\26460\Documents\Faculdade\SD\Socket\ClientB\obj\Debug\ClientB.pdb
+C:\Users\Gabriel Henrique\OneDrive\Faculdade\UFMT\SD\Exercicios\Socket\ClientB\bin\Debug\ClientB.exe.config
+C:\Users\Gabriel Henrique\OneDrive\Faculdade\UFMT\SD\Exercicios\Socket\ClientB\bin\Debug\ClientB.exe
+C:\Users\Gabriel Henrique\OneDrive\Faculdade\UFMT\SD\Exercicios\Socket\ClientB\bin\Debug\ClientB.pdb
+C:\Users\Gabriel Henrique\OneDrive\Faculdade\UFMT\SD\Exercicios\Socket\ClientB\obj\Debug\ClientB.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Henrique\OneDrive\Faculdade\UFMT\SD\Exercicios\Socket\ClientB\obj\Debug\ClientB.exe
+C:\Users\Gabriel Henrique\OneDrive\Faculdade\UFMT\SD\Exercicios\Socket\ClientB\obj\Debug\ClientB.pdb

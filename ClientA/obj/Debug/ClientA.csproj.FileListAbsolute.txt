@@ -1,0 +1,13 @@
+C:\Users\26460\Documents\Faculdade\SD\Socket\ClientA\bin\Debug\ClientA.exe.config
+C:\Users\26460\Documents\Faculdade\SD\Socket\ClientA\bin\Debug\ClientA.exe
+C:\Users\26460\Documents\Faculdade\SD\Socket\ClientA\bin\Debug\ClientA.pdb
+C:\Users\26460\Documents\Faculdade\SD\Socket\ClientA\obj\Debug\ClientA.csprojResolveAssemblyReference.cache
+C:\Users\26460\Documents\Faculdade\SD\Socket\ClientA\obj\Debug\ClientA.exe
+C:\Users\26460\Documents\Faculdade\SD\Socket\ClientA\obj\Debug\ClientA.pdb
+C:\Users\Gabriel Henrique\OneDrive\Faculdade\UFMT\SD\Exercicios\Socket\ClientA\bin\Debug\ClientA.exe.config
+C:\Users\Gabriel Henrique\OneDrive\Faculdade\UFMT\SD\Exercicios\Socket\ClientA\bin\Debug\ClientA.exe
+C:\Users\Gabriel Henrique\OneDrive\Faculdade\UFMT\SD\Exercicios\Socket\ClientA\bin\Debug\ClientA.pdb
+C:\Users\Gabriel Henrique\OneDrive\Faculdade\UFMT\SD\Exercicios\Socket\ClientA\obj\Debug\ClientA.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Henrique\OneDrive\Faculdade\UFMT\SD\Exercicios\Socket\ClientA\obj\Debug\ClientA.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Henrique\OneDrive\Faculdade\UFMT\SD\Exercicios\Socket\ClientA\obj\Debug\ClientA.exe
+C:\Users\Gabriel Henrique\OneDrive\Faculdade\UFMT\SD\Exercicios\Socket\ClientA\obj\Debug\ClientA.pdb

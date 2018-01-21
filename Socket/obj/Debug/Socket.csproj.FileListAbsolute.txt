@@ -1,0 +1,12 @@
+C:\Users\26460\Documents\Faculdade\SD\Socket\Socket\bin\Debug\Socket.exe.config
+C:\Users\26460\Documents\Faculdade\SD\Socket\Socket\bin\Debug\Socket.exe
+C:\Users\26460\Documents\Faculdade\SD\Socket\Socket\bin\Debug\Socket.pdb
+C:\Users\26460\Documents\Faculdade\SD\Socket\Socket\obj\Debug\Socket.exe
+C:\Users\26460\Documents\Faculdade\SD\Socket\Socket\obj\Debug\Socket.pdb
+C:\Users\Gabriel Henrique\OneDrive\Faculdade\UFMT\SD\Exercicios\Socket\Socket\bin\Debug\Socket.exe.config
+C:\Users\Gabriel Henrique\OneDrive\Faculdade\UFMT\SD\Exercicios\Socket\Socket\bin\Debug\Socket.exe
+C:\Users\Gabriel Henrique\OneDrive\Faculdade\UFMT\SD\Exercicios\Socket\Socket\bin\Debug\Socket.pdb
+C:\Users\Gabriel Henrique\OneDrive\Faculdade\UFMT\SD\Exercicios\Socket\Socket\obj\Debug\Socket.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Henrique\OneDrive\Faculdade\UFMT\SD\Exercicios\Socket\Socket\obj\Debug\Socket.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Henrique\OneDrive\Faculdade\UFMT\SD\Exercicios\Socket\Socket\obj\Debug\Socket.exe
+C:\Users\Gabriel Henrique\OneDrive\Faculdade\UFMT\SD\Exercicios\Socket\Socket\obj\Debug\Socket.pdb
